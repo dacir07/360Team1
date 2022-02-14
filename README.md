@@ -1,4 +1,4 @@
 # 360Team1
-This is for CSE360 Wednesday Team 1 project
+This is for CSE360 Wednesday Team 1 Project
 
 Hello!
